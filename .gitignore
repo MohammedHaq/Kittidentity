@@ -1,2 +1,5 @@
 # Ignore downloaded Kaggle images
 model/data/cat-breeds-dataset/
+
+#ignore Kaggle API
+.kaggle/kaggle.json
